@@ -1,0 +1,16 @@
+{
+  "name": "postcss-function-resolution",
+  "version": "1.0.0",
+  "description": "Resolve function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "balanced": "0.0.0",
+    "balanced-match": "^0.3.0",
+    "postcss": "^5.0.16"
+  }
+}
